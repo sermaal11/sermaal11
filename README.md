@@ -33,8 +33,6 @@ Además de la programación, gestiono mi propio negocio de **corte y grabado lá
 
 ## 📫 Contacto
 
-📌 **LinkedIn:** [www.linkedin.com/in/sergiomarinalvarez](www.linkedin.com/in/sergiomarinalvarez)
-📌 **GitHub:** [https://github.com/sermaal11](https://github.com/sermaal11)  
 📌 **Email:** smarin-a@student.42madrid.com  
 
 ¡Gracias por pasarte por mi perfil! 😊
