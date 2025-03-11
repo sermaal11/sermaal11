@@ -1,5 +1,4 @@
 # 👋 ¡Hola! Soy Sergio
-![Sergio Header](https://drive.google.com/drive/u/0/my-drive)
 
 ## 💻 Sobre mí  
 Soy un desarrollador en formación con experiencia en **C, Shell Scripting y sistemas UNIX**. Actualmente, estudio en la **Academia 42 Madrid**, donde desarrollo proyectos en gráficos 2D/3D con **MiniLibX** y arquitectura de software en entornos Linux.
@@ -12,8 +11,8 @@ Además, gestiono mi propio negocio de **corte y grabado láser**, diseñando y 
 
 🔹 **Lenguajes:**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![c++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)   
 
 🔹 **Sistemas Operativos:**  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
@@ -39,11 +38,7 @@ Además, gestiono mi propio negocio de **corte y grabado láser**, diseñando y 
 
 ## 📌 Proyectos Destacados  
 
-| Proyecto | Descripción | Repositorio |
-|----------|------------|-------------|
-| **Cub3D** | Implementación de un motor de gráficos en 3D basado en el raycasting de Wolfenstein3D. | 🔗 [cub3d](https://github.com/tuusuario/cub3d) |
-| **Pipex** | Simulación del comportamiento de pipes en Unix, manejando redirecciones y ejecución de comandos. | 🔗 [pipex](https://github.com/tuusuario/pipex) |
-| **Push Swap** | Algoritmo de ordenación optimizado utilizando stacks. | 🔗 [push_swap](https://github.com/tuusuario/push_swap) |
+(Próximamente)
 
 ---
 
