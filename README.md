@@ -49,7 +49,7 @@ Además, gestiono mi propio negocio de **corte y grabado láser**, diseñando y 
 
 ## 📫 Contacto  
 📌 **Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
-📌 **GitHub:** [Tu perfil](https://github.com/tuusuario)  
+📌 **GitHub:** [Tu perfil](https://github.com/sermaal11)  
 
 ---
 ¡Gracias por visitar mi perfil! 🚀  
