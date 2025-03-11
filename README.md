@@ -1,4 +1,5 @@
 # 👋 ¡Hola! Soy Sergio
+![Sergio Header](https://drive.google.com/drive/u/0/my-drive)
 
 ## 💻 Sobre mí  
 Soy un desarrollador en formación con experiencia en **C, Shell Scripting y sistemas UNIX**. Actualmente, estudio en la **Academia 42 Madrid**, donde desarrollo proyectos en gráficos 2D/3D con **MiniLibX** y arquitectura de software en entornos Linux.
