@@ -43,7 +43,7 @@ Además, gestiono mi propio negocio de **corte y grabado láser**, diseñando y 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sermaal11&show_icons=true&theme=radical)
 
 ---
 
