@@ -10,18 +10,18 @@ Además, gestiono mi propio negocio de **corte y grabado láser**, diseñando y 
 ## 🚀 Tecnologías y herramientas  
 
 🔹 **Lenguajes:**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)   
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
 🔹 **Sistemas Operativos:**  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
-![macOS](https://img.shields.io/badge/macOS-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 🔹 **Herramientas:**  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Makefile](https://img.shields.io/badge/Makefile-%23121011.svg?style=for-the-badge)  
-![MiniLibX](https://img.shields.io/badge/MiniLibX-%2300599C.svg?style=for-the-badge)  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-%23121011.svg?style=for-the-badge)
+![MiniLibX](https://img.shields.io/badge/MiniLibX-%2300599C.svg?style=for-the-badge)
 
 🔹 **Otros:**  
 🎨 Diseño y fabricación con láser (Sculpfun 5W)  
