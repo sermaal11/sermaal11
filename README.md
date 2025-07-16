@@ -8,8 +8,6 @@
 
 🤖 Soy también un entusiasta de la robótica y el diseño, con especial interés en proyectos con Arduino, donde exploro la integración entre hardware y software para dar vida a ideas funcionales.
 
----
-
 ## 🚀 Tecnologías y herramientas  
 
 🔹 **Lenguajes:**  
@@ -27,32 +25,23 @@
 ![Makefile](https://img.shields.io/badge/Makefile-%23121011.svg?style=for-the-badge)
 ![MiniLibX](https://img.shields.io/badge/MiniLibX-%2300599C.svg?style=for-the-badge)
 
----
-
 ## 🎯 En qué estoy trabajando ahora  
 ✅ **Mejorando mis habilidades en programación** y explorando nuevas tecnologías.  
 ✅ **Optimizando mi flujo de trabajo** para equilibrar estudios, proyectos y emprendimiento.  
 ✅ **Desarrollando soluciones creativas** tanto en software como en diseño con láser.  
 ✅ **Ampliando mi red profesional** y buscando oportunidades de crecimiento en el ámbito tecnológico.  
 
----
-
 ## 📌 Proyectos Destacados  
 
 (Próximamente)
 
----
-
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sermaal11&show_icons=true&theme=radical)
-
----
 
 ## 📫 Contacto  
 📌 **Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
 📌 **GitHub:** [Tu perfil](https://github.com/sermaal11)
 
----
 ¡Gracias por visitar mi perfil! 🚀
 
 > _"No hay líneas de código inútiles si has aprendido algo escribiéndolas."_ 
