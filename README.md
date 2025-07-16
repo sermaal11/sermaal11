@@ -1,9 +1,12 @@
 # 👋 ¡Hola! Soy Sergio
 
-## 💻 Sobre mí  
-Soy un desarrollador en formación con experiencia en **C, Shell Scripting y sistemas UNIX**. Actualmente, estudio en la **Academia 42 Madrid**, donde desarrollo proyectos en gráficos 2D/3D con **MiniLibX** y arquitectura de software en entornos Linux.
+## 💻 Sobre mí
 
-Además, gestiono mi propio negocio de **corte y grabado láser**, diseñando y fabricando productos personalizados en madera. También trabajo como cocinero autónomo los fines de semana.
+📍 Soy un desarrollador en formación en 42 Madrid, donde me especializo en C, C++ y sistemas UNIX, entre otros campos. Mi aprendizaje se basa en un enfoque intensivo, combinando teoría y práctica a través de proyectos reales y colaborativos.
+
+🔧 Además, dirijo un pequeño negocio de corte y grabado láser, donde diseño y fabrico productos personalizados en madera y otros materiales, uniendo creatividad y precisión técnica.
+
+🤖 Soy también un entusiasta de la robótica y el diseño, con especial interés en proyectos con Arduino, donde exploro la integración entre hardware y software para dar vida a ideas funcionales.
 
 ---
 
@@ -12,7 +15,8 @@ Además, gestiono mi propio negocio de **corte y grabado láser**, diseñando y 
 🔹 **Lenguajes:**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
 🔹 **Sistemas Operativos:**  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
@@ -22,9 +26,6 @@ Además, gestiono mi propio negocio de **corte y grabado láser**, diseñando y 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%23121011.svg?style=for-the-badge)
 ![MiniLibX](https://img.shields.io/badge/MiniLibX-%2300599C.svg?style=for-the-badge)
-
-🔹 **Otros:**  
-🎨 Diseño y fabricación con láser (Sculpfun 5W)  
 
 ---
 
@@ -49,7 +50,9 @@ Además, gestiono mi propio negocio de **corte y grabado láser**, diseñando y 
 
 ## 📫 Contacto  
 📌 **Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
-📌 **GitHub:** [Tu perfil](https://github.com/sermaal11)  
+📌 **GitHub:** [Tu perfil](https://github.com/sermaal11)
 
 ---
-¡Gracias por visitar mi perfil! 🚀  
+¡Gracias por visitar mi perfil! 🚀
+
+> _"No hay líneas de código inútiles si has aprendido algo escribiéndolas."_ 
