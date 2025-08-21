@@ -4,9 +4,7 @@
 
 📍 Soy un desarrollador en formación en 42 Madrid, donde me especializo en C, C++ y sistemas UNIX, entre otros campos. Mi aprendizaje se basa en un enfoque intensivo, combinando teoría y práctica a través de proyectos reales y colaborativos.
 
-🔧 Además, dirijo un pequeño negocio de corte y grabado láser, donde diseño y fabrico productos personalizados en madera y otros materiales, uniendo creatividad y precisión técnica.
-
-🤖 Soy también un entusiasta de la robótica y el diseño, con especial interés en proyectos con Arduino, donde exploro la integración entre hardware y software para dar vida a ideas funcionales.
+🔧 Apasionado del diseño y la creación con tecnologías como el corte y grabado láser, explorando su integración con proyectos de robótica y Arduino para dar vida a ideas creativas y funcionales.
 
 ## 🚀 Tecnologías y herramientas  
 
@@ -31,9 +29,6 @@
 ✅ **Desarrollando soluciones creativas** tanto en software como en diseño con láser.  
 ✅ **Ampliando mi red profesional** y buscando oportunidades de crecimiento en el ámbito tecnológico.  
 
-## 📌 Proyectos Destacados  
-
-(Próximamente)
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sermaal11&show_icons=true&theme=radical)
