@@ -2,7 +2,7 @@
 
 ## 💻 Sobre mí
 
-📍 Soy un desarrollador en formación en 42 Madrid, donde me especializo en C, C++ y sistemas UNIX, entre otros campos. Mi aprendizaje se basa en un enfoque intensivo, combinando teoría y práctica a través de proyectos reales y colaborativos.
+📍 Soy un desarrollador en formación en 42 Madrid. Mi aprendizaje se basa en un enfoque intensivo, combinando teoría y práctica a través de proyectos reales y colaborativos.
 
 🔧 Apasionado del diseño y la creación con tecnologías como el corte y grabado láser, explorando su integración con proyectos de robótica y Arduino para dar vida a ideas creativas y funcionales.
 
@@ -20,15 +20,15 @@
 
 🔹 **Herramientas:**  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%23121011.svg?style=for-the-badge)
 ![MiniLibX](https://img.shields.io/badge/MiniLibX-%2300599C.svg?style=for-the-badge)
 
 ## 🎯 En qué estoy trabajando ahora  
 ✅ **Mejorando mis habilidades en programación** y explorando nuevas tecnologías.  
 ✅ **Optimizando mi flujo de trabajo** para equilibrar estudios, proyectos y emprendimiento.  
-✅ **Desarrollando soluciones creativas** tanto en software como en diseño con láser.  
 ✅ **Ampliando mi red profesional** y buscando oportunidades de crecimiento en el ámbito tecnológico.  
-
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sermaal11&show_icons=true&theme=radical)
