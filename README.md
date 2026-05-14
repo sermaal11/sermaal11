@@ -18,6 +18,8 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 
 ## Tecnologías y herramientas  
 
+<div align="center">
+
 **Lenguajes:**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -46,6 +48,8 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![LightBurn](https://img.shields.io/badge/LightBurn-%23FF7A00.svg?style=for-the-badge)
 ![CAD](https://img.shields.io/badge/CAD-%235A5A5A.svg?style=for-the-badge)
+
+</div>
 
 ## Actualmente enfocado en
 
