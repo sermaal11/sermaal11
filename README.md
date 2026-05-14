@@ -1,5 +1,11 @@
 # Hola, soy Sergio
 
+<div align="center">
+  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sermaal11&theme=synthwave)](https://github.com/sermaal11)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sermaal11&theme=synthwave)](https://github.com/sermaal11)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sermaal11&theme=synthwave)](https://github.com/sermaal11)
+
 ## Sobre mí
 
 Soy desarrollador en formación en **42 Madrid**, donde trabajo una base sólida en programación, sistemas UNIX y resolución de problemas a través de proyectos prácticos.
@@ -55,15 +61,6 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 - 🧩 [**42 C++ Modules**](https://github.com/sermaal11/42-cpp-modules): Módulos de C++ centrados en programación orientada a objetos.
 - 🧱 [**cub3d**](https://github.com/sermaal11/cub3d): Motor gráfico inspirado en Wolfenstein 3D, desarrollado en C. _**Feat:** [jdelorme](https://github.com/VolmerES)_
 - 🐚 [**minishell**](https://github.com/Daniel-Escamilla/Minishell): (42) Shell personalizado en C. _**Feat:** [Descamil](https://github.com/Daniel-Escamilla)_
-
-## 📊 GitHub Activity
-
-<div align="center">
-  
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sermaal11&theme=synthwave)](https://github.com/sermaal11)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sermaal11&theme=synthwave)](https://github.com/sermaal11)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sermaal11&theme=synthwave)](https://github.com/sermaal11)
-
 
 ## Contacto  
 **Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
