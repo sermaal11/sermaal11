@@ -71,8 +71,7 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 ## Contacto
 
 <div align="center">
-📩 [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
-📩 [sergio.marin.alvarez@gmail.com](mailto:sergio.marin.alvarez@gmail.com)  
+**Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
 
 Gracias por visitar mi perfil.
 
