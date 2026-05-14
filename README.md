@@ -15,8 +15,12 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%230078d7.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Frameworks y librerías:**  
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Sistemas Operativos:**  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
@@ -28,6 +32,12 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 ![Portainer](https://img.shields.io/badge/Portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%23121011.svg?style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Hardware, diseño y fabricación:**  
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![LightBurn](https://img.shields.io/badge/LightBurn-%23FF7A00.svg?style=for-the-badge)
+![CAD](https://img.shields.io/badge/CAD-%235A5A5A.svg?style=for-the-badge)
 
 ## Actualmente enfocado en
 
@@ -46,6 +56,15 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 - 💬 [**ft_irc**](https://github.com/sermaal11/ft_irc): (42) Servidor IRC desarrollado en C. _**Feat:** [jdelorme](https://github.com/VolmerES)_
 - 🧱 [**cub3d**](https://github.com/sermaal11/cub3d): (42) motor gráfico tipo raycasting inspirado en Wolfenstein 3D, desarrollado en C con MiniLibX. 
 - 🐚 [**minishell**](https://github.com/Daniel-Escamilla/Minishell): (42) Shell personalizado en C con soporte para comandos, redirecciones, pipes y manejo de señales. _**Feat:** [Descamil](https://github.com/Daniel-Escamilla)_
+
+## 📊 GitHub Activity
+
+<div align="center">
+  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sermaal11&theme=synthwave)](https://github.com/sermaal11)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sermaal11&theme=synthwave)](https://github.com/sermaal11)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sermaal11&theme=synthwave)](https://github.com/sermaal11)
+
 
 ## Contacto  
 **Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
