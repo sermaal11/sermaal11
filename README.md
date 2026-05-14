@@ -1,6 +1,6 @@
-# 👋 Hola, soy Sergio
+# Hola, soy Sergio
 
-## 💻 Sobre mí
+## Sobre mí
 
 Soy desarrollador en formación en **42 Madrid**, donde trabajo una base sólida en programación, sistemas UNIX y resolución de problemas a través de proyectos prácticos.
 
@@ -8,9 +8,9 @@ Actualmente estoy centrado en mejorar mi dominio de **C, C++, Linux, Docker y he
 
 También me interesa la creación técnica aplicada: robótica, Arduino, corte y grabado láser, y la integración entre software y hardware para construir soluciones funcionales.
 
-## 🚀 Tecnologías y herramientas  
+## Tecnologías y herramientas  
 
-🔹 **Lenguajes:**  
+**Lenguajes:**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -18,33 +18,37 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
-🔹 **Sistemas Operativos:**  
+**Sistemas Operativos:**  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-🔹 **Herramientas:**  
+**Herramientas:**  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%23121011.svg?style=for-the-badge)
 
-## 🎯 Actualmente enfocado en
+## Actualmente enfocado en
 
 - Profundizar en **C, C++ y fundamentos de sistemas UNIX**.
 - Mejorar mi manejo de **Linux, procesos, memoria, compilación y automatización**.
 - Aprender y aplicar herramientas de **contenedores, administración y monitorización**.
-- Construir proyectos con código limpio, documentación clara y una mejora constante.
+- Construir proyectos con **código limpio, documentación clara y una mejora constante**.
+- **Explorar nuevos lenguajes, tecnologías y áreas de interés** para ampliar mis habilidades y conocimientos.
 
-## 🛠️ Proyectos destacados
+## Mis proyectos
 
-- [**Home Vision**](https://github.com/sermaal11/home-vision): proyecto personal orientado a visión, automatización y monitorización del entorno doméstico.
-- [**42 C++ Modules**](https://github.com/sermaal11/42-cpp-modules): módulos de C++ centrados en programación orientada a objetos, herencia, polimorfismo, plantillas y buenas prácticas.
-- [**ft_irc**](https://github.com/sermaal11/ft_irc): servidor IRC desarrollado en C++ con gestión de sockets, clientes, canales y comunicación en red.
-- [**cub3d**](https://github.com/sermaal11/cub3d): motor gráfico tipo raycasting inspirado en Wolfenstein 3D, desarrollado en C con MiniLibX.
+- 👁️ [**Home Vision**](https://github.com/sermaal11/home-vision): (Personal) Proyecto orientado a visión artificial con OpenCV, utilizando una Raspberry Pi para reconocimiento de objetos y detección de movimiento.
+- 💬 [**ft_irc**](https://github.com/sermaal11/ft_irc): (42) Servidor IRC desarrollado en C. _**Feat:** [jdelorme](https://github.com/VolmerES)_
+- 🐳 [**Inception**](https://github.com/sermaal11/inception): (42) Orquestación de contenedores Docker 
+- 🧩 [**42 C++ Modules**](https://github.com/sermaal11/42-cpp-modules): (42) Módulos de C++ centrados en programación orientada a objetos, herencia, polimorfismo, plantillas y buenas prácticas.
+- 💬 [**ft_irc**](https://github.com/sermaal11/ft_irc): (42) Servidor IRC desarrollado en C. _**Feat:** [jdelorme](https://github.com/VolmerES)_
+- 🧱 [**cub3d**](https://github.com/sermaal11/cub3d): (42) motor gráfico tipo raycasting inspirado en Wolfenstein 3D, desarrollado en C con MiniLibX. 
+- 🐚 [**minishell**](https://github.com/Daniel-Escamilla/Minishell): (42) Shell personalizado en C con soporte para comandos, redirecciones, pipes y manejo de señales. _**Feat:** [Descamil](https://github.com/Daniel-Escamilla)_
 
-## 📫 Contacto  
-📌 **Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
+## Contacto  
+**Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
 
 Gracias por visitar mi perfil.
 
