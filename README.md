@@ -72,11 +72,11 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 
 <div align="center">
 
-[smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
+[![Email](https://img.shields.io/badge/-sergio.marin.alvarez%40gmail.com-%23EA4335.svg?style=for-the-badge)](mailto:sergio.marin.alvarez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20Marin%20Alvarez-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-marin-alvarez/)
 
 Gracias por visitar mi perfil.
 
 _"No hay líneas de código inútiles si has aprendido algo escribiéndolas."_ 
 
 </div>
-
