@@ -1,16 +1,18 @@
-# 👋 ¡Hola! Soy Sergio
+# 👋 Hola, soy Sergio
 
 ## 💻 Sobre mí
 
-📍 Soy un desarrollador en formación en 42 Madrid. Mi aprendizaje se basa en un enfoque intensivo, combinando teoría y práctica a través de proyectos reales y colaborativos.
+Soy desarrollador en formación en **42 Madrid**, donde trabajo una base sólida en programación, sistemas UNIX y resolución de problemas a través de proyectos prácticos.
 
-🔧 Apasionado del diseño y la creación con tecnologías como el corte y grabado láser, explorando su integración con proyectos de robótica y Arduino para dar vida a ideas creativas y funcionales.
+Actualmente estoy centrado en mejorar mi dominio de **C, C++, Linux, Docker y herramientas de administración y monitorización**, combinando estudio constante, práctica diaria y proyectos reales.
+
+También me interesa la creación técnica aplicada: robótica, Arduino, corte y grabado láser, y la integración entre software y hardware para construir soluciones funcionales.
 
 ## 🚀 Tecnologías y herramientas  
 
 🔹 **Lenguajes:**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![c++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -27,17 +29,27 @@
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%23121011.svg?style=for-the-badge)
 
-## 🎯 En qué estoy trabajando ahora  
-✅ **Mejorando mis habilidades en programación** y explorando nuevas tecnologías.  
-✅ **Optimizando mi flujo de trabajo** para equilibrar estudios, proyectos y emprendimiento.  
-✅ **Ampliando mi red profesional** y buscando oportunidades de crecimiento en el ámbito tecnológico.  
+## 🎯 Actualmente enfocado en
+
+- Profundizar en **C, C++ y fundamentos de sistemas UNIX**.
+- Mejorar mi manejo de **Linux, procesos, memoria, compilación y automatización**.
+- Aprender y aplicar herramientas de **contenedores, administración y monitorización**.
+- Construir proyectos con código limpio, documentación clara y una mejora constante.
+
+## 🛠️ Proyectos destacados
+
+- [**Home Vision**](https://github.com/sermaal11/home-vision): proyecto personal orientado a visión, automatización y monitorización del entorno doméstico.
+- [**42 C++ Modules**](https://github.com/sermaal11/42-cpp-modules): módulos de C++ centrados en programación orientada a objetos, herencia, polimorfismo, plantillas y buenas prácticas.
+- [**ft_irc**](https://github.com/sermaal11/ft_irc): servidor IRC desarrollado en C++ con gestión de sockets, clientes, canales y comunicación en red.
+- [**cub3d**](https://github.com/sermaal11/cub3d): motor gráfico tipo raycasting inspirado en Wolfenstein 3D, desarrollado en C con MiniLibX.
 
 ## 📊 GitHub Stats  
 ![Estadísticas de GitHub de Sergio](https://github-readme-stats.vercel.app/api?username=sermaal11&show_icons=true&theme=radical&locale=es&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=sermaal11&layout=compact&theme=radical&locale=es&hide_border=true)
 
 ## 📫 Contacto  
 📌 **Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
 
-¡Gracias por visitar mi perfil! 🚀
+Gracias por visitar mi perfil.
 
 > _"No hay líneas de código inútiles si has aprendido algo escribiéndolas."_ 
