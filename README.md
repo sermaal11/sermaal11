@@ -33,7 +33,7 @@
 ✅ **Ampliando mi red profesional** y buscando oportunidades de crecimiento en el ámbito tecnológico.  
 
 ## 📊 GitHub Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sermaal11)](https://github.com/sermaal11/github-readme-stats)
+![Estadísticas de GitHub de Sergio](https://github-readme-stats.vercel.app/api?username=sermaal11&show_icons=true&theme=radical&locale=es&hide_border=true)
 
 ## 📫 Contacto  
 📌 **Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
