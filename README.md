@@ -49,13 +49,12 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 
 ## Mis proyectos
 
-- 👁️ [**Home Vision**](https://github.com/sermaal11/home-vision): (Personal) Proyecto orientado a visión artificial con OpenCV, utilizando una Raspberry Pi para reconocimiento de objetos y detección de movimiento.
-- 💬 [**ft_irc**](https://github.com/sermaal11/ft_irc): (42) Servidor IRC desarrollado en C. _**Feat:** [jdelorme](https://github.com/VolmerES)_
-- 🐳 [**Inception**](https://github.com/sermaal11/inception): (42) Orquestación de contenedores Docker 
-- 🧩 [**42 C++ Modules**](https://github.com/sermaal11/42-cpp-modules): (42) Módulos de C++ centrados en programación orientada a objetos, herencia, polimorfismo, plantillas y buenas prácticas.
-- 💬 [**ft_irc**](https://github.com/sermaal11/ft_irc): (42) Servidor IRC desarrollado en C. _**Feat:** [jdelorme](https://github.com/VolmerES)_
-- 🧱 [**cub3d**](https://github.com/sermaal11/cub3d): (42) motor gráfico tipo raycasting inspirado en Wolfenstein 3D, desarrollado en C con MiniLibX. 
-- 🐚 [**minishell**](https://github.com/Daniel-Escamilla/Minishell): (42) Shell personalizado en C con soporte para comandos, redirecciones, pipes y manejo de señales. _**Feat:** [Descamil](https://github.com/Daniel-Escamilla)_
+- 👁️ [**Home Vision**](https://github.com/sermaal11/home-vision): Proyecto orientado a visión artificial por computación.
+- 💬 [**ft_irc**](https://github.com/sermaal11/ft_irc): Servidor IRC desarrollado en C++. _**Feat:** [jdelorme](https://github.com/VolmerES)_
+- 🐳 [**Inception**](https://github.com/sermaal11/inception): Orquestación de contenedores en Docker.
+- 🧩 [**42 C++ Modules**](https://github.com/sermaal11/42-cpp-modules): Módulos de C++ centrados en programación orientada a objetos.
+- 🧱 [**cub3d**](https://github.com/sermaal11/cub3d): Motor gráfico inspirado en Wolfenstein 3D, desarrollado en C. _**Feat:** [jdelorme](https://github.com/VolmerES)_
+- 🐚 [**minishell**](https://github.com/Daniel-Escamilla/Minishell): (42) Shell personalizado en C. _**Feat:** [Descamil](https://github.com/Daniel-Escamilla)_
 
 ## 📊 GitHub Activity
 
@@ -71,4 +70,5 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 
 Gracias por visitar mi perfil.
 
-> _"No hay líneas de código inútiles si has aprendido algo escribiéndolas."_ 
+_"No hay líneas de código inútiles si has aprendido algo escribiéndolas."_ 
+
