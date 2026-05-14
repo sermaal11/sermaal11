@@ -6,6 +6,8 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sermaal11&theme=synthwave)](https://github.com/sermaal11)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sermaal11&theme=synthwave)](https://github.com/sermaal11)
 
+</div>
+
 ## Sobre mí
 
 Soy desarrollador en formación en **42 Madrid**, donde trabajo una base sólida en programación, sistemas UNIX y resolución de problemas a través de proyectos prácticos.
