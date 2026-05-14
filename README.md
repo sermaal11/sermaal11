@@ -43,21 +43,6 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 - [**ft_irc**](https://github.com/sermaal11/ft_irc): servidor IRC desarrollado en C++ con gestión de sockets, clientes, canales y comunicación en red.
 - [**cub3d**](https://github.com/sermaal11/cub3d): motor gráfico tipo raycasting inspirado en Wolfenstein 3D, desarrollado en C con MiniLibX.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=sermaal11&show_icons=true&theme=transparent&locale=es&hide_border=true"
-    alt="Estadísticas de GitHub de Sergio"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sermaal11&layout=compact&theme=transparent&locale=es&hide_border=true"
-    alt="Lenguajes más usados"
-  />
-</p>
-
 ## 📫 Contacto  
 📌 **Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
 
