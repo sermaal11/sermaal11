@@ -71,9 +71,12 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 ## Contacto
 
 <div align="center">
-**Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
+
+[smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
 
 Gracias por visitar mi perfil.
 
 _"No hay líneas de código inútiles si has aprendido algo escribiéndolas."_ 
+
 </div>
+
