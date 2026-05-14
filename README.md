@@ -68,10 +68,13 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 - 🧱 [**cub3d**](https://github.com/sermaal11/cub3d): Motor gráfico inspirado en Wolfenstein 3D, desarrollado en C. _**Feat:** [jdelorme](https://github.com/VolmerES)_
 - 🐚 [**minishell**](https://github.com/Daniel-Escamilla/Minishell): (42) Shell personalizado en C. _**Feat:** [Descamil](https://github.com/Daniel-Escamilla)_
 
-## Contacto  
-**Email:** [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
+## Contacto
+
+<div align="center">
+📩 [smarin-a@student.42madrid.com](mailto:smarin-a@student.42madrid.com)  
+📩 [sergio.marin.alvarez@gmail.com](mailto:sergio.marin.alvarez@gmail.com)  
 
 Gracias por visitar mi perfil.
 
 _"No hay líneas de código inútiles si has aprendido algo escribiéndolas."_ 
-
+</div>
