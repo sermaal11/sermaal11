@@ -61,6 +61,7 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 
 ## Mis proyectos
 
+- 💽 [**Homelab**](https://github.com/sermaal11/homelab): Configuración y gestión de un entorno de servidor doméstico.
 - 👁️ [**Home Vision**](https://github.com/sermaal11/home-vision): Proyecto orientado a visión artificial por computación.
 - 💬 [**ft_irc**](https://github.com/sermaal11/ft_irc): Servidor IRC desarrollado en C++. _**Feat:** [jdelorme](https://github.com/VolmerES)_
 - 🐳 [**Inception**](https://github.com/sermaal11/inception): Orquestación de contenedores en Docker.
