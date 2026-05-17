@@ -42,7 +42,8 @@ También me interesa la creación técnica aplicada: robótica, Arduino, corte y
 ![Portainer](https://img.shields.io/badge/Portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%23121011.svg?style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-%23121011.svg?style=for-the-badge)
 
 **Hardware, diseño y fabricación:**  
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
